@@ -1,0 +1,23 @@
+.container {
+	margin: 0 auto;
+	max-width: 700px;
+}
+
+.section {
+	padding: 300px 0;
+	height: 100vh;
+}
+
+.section1 {
+	background-color: grey;
+}
+
+.section__content {
+	border: 5px solid #000000;
+	background-color: #f6f6f6;
+}
+
+.inverse {
+	background-color: #000;
+	color: #fff;
+}
